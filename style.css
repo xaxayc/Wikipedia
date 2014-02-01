@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: georgia;
+  font-size: 20px;
+  line-height: 1.5;
+}
+header {
+  background: url(http://www.tapetus.pl/obrazki/n/138974_siberian-husky-zima-nieg.jpg) 50px 500px;
+}
+header h1 {
+  height: 400px;
+  line-height: 400px;
+  color: white;
+  font-family: georgia, arial, sans-serif;
+  font-size: 160px;
+  text-align: center;
+  text-shadow: 20px 2px 80px #00FF14;
+}
+section,
+aside {
+  width: 65%;
+  margin: 1em auto;
+}
