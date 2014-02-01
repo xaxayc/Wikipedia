@@ -17,7 +17,7 @@ header h1 {
   font-family: georgia, arial, sans-serif;
   font-size: 160px;
   text-align: center;
-  text-shadow: 20px 2px 80px #00FF14;
+  text-shadow: 20px 2px 80px yellow;
 }
 section,
 aside {
