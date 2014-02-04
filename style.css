@@ -8,7 +8,8 @@ body {
   line-height: 1.5;
 }
 header {
-  background: url(http://www.tapetus.pl/obrazki/n/138974_siberian-husky-zima-nieg.jpg) 50px 500px;
+  background: url(http://www.tapetus.pl/obrazki/n/138974_siberian-husky-zima-nieg.jpg);
+  background-repeat: no-repeat;
 }
 header h1 {
   height: 400px;
